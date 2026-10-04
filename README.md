@@ -70,7 +70,4 @@ HTML5 · CSS3 · SVG · JavaScript (ES6)
 
 ## 🙌 Credits
 
-<!-- If this animation is based on someone else's work (for example a CodePen), credit the original author and link to the source here. -->
-Original concept and code: <author name / link>
-
-Modified and packaged by <Your Name>.
+Modified and packaged by <Arslan Hassan>.
